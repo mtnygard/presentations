@@ -1,4 +1,4 @@
 Presentations
 =============
 
-See the [wiki](wiki) for a list of presentations by Michael Nygard.
+See the [wiki](https://github.com/mtnygard/presentations/wiki) for a list of presentations by Michael Nygard.
