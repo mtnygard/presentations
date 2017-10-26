@@ -9,7 +9,9 @@ forte.
 Michael has written and co-authored several books, including "97
 Things Every Software Architect Should Know" and the best seller
 "Release It!", a book about building software that survives the real
-world.
+world. He is a highly sought speaker who addresses developers, 
+architects, and technology leaders around the world.
 
-Michael works for [Cognitect Inc.](http://www.cognitect.com/), the
-company behind Clojure, ClojureScript, Pedestal, and Datomic.
+Michael is currently Vice President, Customer Solutions, for
+[Cognitect Inc.](http://www.cognitect.com/), the company behind 
+Clojure, ClojureScript, Pedestal, and Datomic.
