@@ -12,6 +12,4 @@ Things Every Software Architect Should Know" and the best seller
 world. He is a highly sought speaker who addresses developers, 
 architects, and technology leaders around the world.
 
-Michael is currently Vice President, Customer Solutions, for
-[Cognitect Inc.](http://www.cognitect.com/), the company behind 
-Clojure, ClojureScript, Pedestal, and Datomic.
+Michael is currently Vice President, Travel Solutions Platform Development Enterprise Architecture, for Sabre, the company reimaging the business of travel.
