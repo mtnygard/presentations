@@ -12,5 +12,5 @@ Things Every Software Architect Should Know" and the best seller
 world. He is a highly sought speaker who addresses developers, 
 architects, and technology leaders around the world.
 
-Michael is currently Senior Vice President, Enterprise Architecture & 
-Platform Development, for Sabre, the company reimaging the business of travel.
+Michael is currently Senior Vice President, Platform & Architecture, 
+for Sabre, the company reimaging the business of travel.
