@@ -12,5 +12,6 @@ Things Every Software Architect Should Know" and the best seller
 world. He is a highly sought speaker who addresses developers, 
 architects, and technology leaders around the world.
 
-Michael is currently Senior Vice President, Platform & Architecture, 
-for Sabre, the company reimaging the business of travel.
+Michael is currently General Manager of the Data Business Unit at Nubank,
+a financial services company that creates fanatical customers through
+radical simplicity.
