@@ -12,6 +12,6 @@ Things Every Software Architect Should Know" and the best seller
 world. He is a highly sought speaker who addresses developers, 
 architects, and technology leaders around the world.
 
-Michael is currently General Manager of the Data Business Unit at Nubank,
+Michael is currently Chief Architect at Nubank,
 a financial services company that creates fanatical customers through
-radical simplicity.
+radical simplicity. Previously he was General Manager of the Data Business Unit there.
